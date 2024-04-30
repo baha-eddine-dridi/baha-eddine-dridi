@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Baha eddine Dridi
-- 🎓 Computer Science Student at ESPRIT, Tunisia
-- 💞️ I’m looking  to collaborate on new projects
-- 📫 How to reach me : bahadridi441@gmail.com
+Hi 👋, I'm Baha eddine Dridi
+A passionate mobile developer
+🔭 I’m currently working on website
 
+🌱 I’m currently learning flutter , symfony
 
-<!---
-baha-eddine-dridi/baha-eddine-dridi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 Ask me about java
+
+📫 How to reach me houssinebenarous48@gmail.com
+
+Connect with me:
+https://www.linkedin.com/in/baha-eddine-dridi-9612b6257/
+
+Languages and Tools:
+android arduino bootstrap c css3 dart figma firebase flutter html5 java javascript mysql opencv oracle php python
