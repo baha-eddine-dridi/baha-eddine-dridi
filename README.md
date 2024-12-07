@@ -10,7 +10,9 @@
   </p> -->
   
 <!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
+<img title="My Avatar" align="left" src="baha-eddine-dridi
+/avataaars.png
+"  width="500px" alt="hi" >
 
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
