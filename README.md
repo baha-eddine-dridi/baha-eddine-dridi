@@ -30,9 +30,7 @@ I am completely passionate about frontend backend development .
 
 
 ![GitHub followers](https://img.shields.io/github/followers/baha-eddine-dridi?style=social)
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
-<img src="https://img.shields.io/badge/Age-24-blue" />
-
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=baha-eddine-dridi)
 <img src="https://img.shields.io/badge/Age-23-blue" />
 
 <!-- Ligne  -->
