@@ -65,7 +65,7 @@ baha-eddine-dridi
 baha-eddine-dridi
 " /></p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
+![](https://github-readme-activity-graph.vercel.app/graph?username=&theme=react)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
