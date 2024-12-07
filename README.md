@@ -59,9 +59,7 @@ I am completely passionate about frontend backend development .
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=baha-eddine-dridi&show_icons=true&theme=radical)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenIsmail)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=
-baha-eddine-dridi
-&&theme=algolia" alt="
+<p><img align="center" alt="
 baha-eddine-dridi
 " /></p>
 
