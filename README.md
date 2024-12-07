@@ -28,7 +28,7 @@ I am completely passionate about frontend backend development .
 [![Mail Badge](https://img.shields.io/badge/-BahaEddineDridi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bahadridi441@gmail.com)
 
 
-![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
+![GitHub followers](https://img.shields.io/github/followers/baha-eddine-dridi?style=social)
 
 <img src="https://img.shields.io/badge/Age-23-blue" />
 
@@ -36,11 +36,10 @@ I am completely passionate about frontend backend development .
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- TODO: Add last video link 
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently studying at @Esprit
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: aziz.270700@gmail.com.
-- 😄 Pronouns: Sam3oulation,Ismail.
+- 📫 How to reach me: bahadridi441@gmail.com
 -->
 
 
@@ -59,9 +58,9 @@ I am completely passionate about frontend backend development .
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=radical)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenIsmail)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baha-eddine-dridi&&theme=algolia" alt="baha-eddine-dridi" /></p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
+![](https://github-readme-activity-graph.vercel.app/graph?username=baha-eddine-dridi&theme=react)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -79,13 +78,6 @@ I am completely passionate about frontend backend development .
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
-
-Last Edited on: 03/09/2024
 <details> 
   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
@@ -94,10 +86,10 @@ Last Edited on: 03/09/2024
             <p align="center">
       </p>
         <p align="center">
-          <a href="https://github.com/AzizBenIsmail/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
+          <a href="https://github.com/baha-eddine-dridi/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baha-eddine-dridi&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baha-eddine-dridi&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>
@@ -105,7 +97,7 @@ Last Edited on: 03/09/2024
 
 ## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizBenIsmail&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=baha-eddine-dridi&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
 
 <br>
 </details>
